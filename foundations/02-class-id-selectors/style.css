@@ -1,0 +1,19 @@
+.red-div {
+    background-color: rgb(212, 63, 138);
+    font-family: Verdana, DejaVu Sans, sans-serif ;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#bluediv {
+    color: #0000ff;
+    background-color: white;
+}
+
+#green-div {
+    background-color: rgb(157, 243, 28);
+    color: black;
+}
+
